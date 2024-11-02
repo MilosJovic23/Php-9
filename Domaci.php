@@ -18,6 +18,7 @@
 
         $pdv = $cena * 0.22;
         echo "iznos pdv-a za proizvod je $pdv eur";
+
     }
 
     iznosPdva(100);
